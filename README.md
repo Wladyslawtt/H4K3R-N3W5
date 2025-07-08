@@ -35,7 +35,7 @@ Installation
 	2.	Open the project in Xcode:
 open H4K3R_N3W5.xcodeproj
 
-	3.	Build and run the app on a חברי simulator or device.
+	3.	Build and run the app on a simulator or device.
 
 
 🧠 What I Learned
